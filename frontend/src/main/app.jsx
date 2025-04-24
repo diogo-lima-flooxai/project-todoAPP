@@ -4,6 +4,7 @@ import Routes from './routes'
 
 require("bootstrap/dist/css/bootstrap.min.css");
 require("font-awesome/css/font-awesome.min.css");
+import '../template/custom.css'
 
 const App = (props) => (
   <div className="container">
