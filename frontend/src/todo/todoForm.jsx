@@ -11,7 +11,6 @@ export default (props) => {
     }
   }
 
-
   return (
     <div role="form" className="todoForm">
       <Grid cols="12 9 10">
